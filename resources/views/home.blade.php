@@ -11,6 +11,7 @@
         <h1>
             Hello World!
         </h1>
+        <h2>{{$name}} {{$surname}}</h2>
     </main>
 </body>
 </html>
